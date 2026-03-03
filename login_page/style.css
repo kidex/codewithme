@@ -35,7 +35,6 @@ form {
     border-radius: 16px;
 }
 
-/* Animație pe titlu */
 .typewriter {
     font-size: 28px;
     margin-bottom: 8px;
@@ -81,7 +80,7 @@ input:focus { border-color: #38bdf8; }
 
 .check {
     display: flex;
-    align-items: center; /* Asta aliniază bifa cu textul */
+    align-items: center;
     gap: 8px;
     cursor: pointer;
 }
